@@ -1,0 +1,16 @@
+.top-bg-black {
+    background-color: black;
+}
+
+.top-color-white {
+    color: #ffffff;
+}
+.top-bg-yellow {
+    background-color: hsl(60, 100%, 50%);
+}
+.top-fonts {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.top-font-28px {
+    font-size: 28px;
+}
