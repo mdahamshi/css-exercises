@@ -11,7 +11,7 @@ html {
   box-sizing: border-box;
   display: grid;
   gap: 15px;
-  grid-template: 12.5% 12.5% 62.5% 12.5% / 25% 75% ;
+  grid-template: 12.5fr 12.5fr 62.5fr 12.5fr / 25fr 75fr ;
   grid-template-areas: "header header"
     "sidebar nav"
     "sidebar article"
